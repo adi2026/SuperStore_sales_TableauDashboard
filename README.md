@@ -18,3 +18,5 @@ Through this project, I learned how to:
 
 
 I’m excited to keep exploring more real-world datasets and improve my analytical skills.
+Show What the Dashboard Looks like: ![Alt text]()
+Example: ![Dashboard preview](https://github.com/adi2026/SuperStore_sales_TableauDashboard/blob/main/Screenshot_TableauDashboard%202025-09-21%20172444.png)
